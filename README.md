@@ -69,12 +69,15 @@ It was also a great challenge in performance optimization since the app needed t
 ### Screens (Conceptual Flow)
 
 #### Name Input Screen
+![Home Screen](images/input_screen.png)
 *Users enter their name and select calligraphy style*
 
 #### Calligraphy Preview
+![Home Screen](images/preview.png)
 *Real-time preview with dynamic font rendering*
 
 #### QR Code Screen
+![Home Screen](images/qrCode_screen.png)
 *Unique QR code generated for instant download*
 
 ---
