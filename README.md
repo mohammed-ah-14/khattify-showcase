@@ -66,7 +66,7 @@ It was also a great challenge in performance optimization since the app needed t
 
 ---
 
-### Screens (Conceptual Flow)
+### Screens
 
 #### Name Input Screen
 ![Home Screen](images/input_screen.png)
